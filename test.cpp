@@ -12,6 +12,6 @@ for (int i=0;i<5;i++) {
 }
 
 cout <<"check for Diff, this is the secound try"<<endl;
-
+cout <<"the first try was succ"<<endl;
 return 0;
-}
+}   
